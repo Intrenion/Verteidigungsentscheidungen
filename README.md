@@ -1,2 +1,0 @@
-# Verteidigungsentscheidungen
-Verteidigungsentscheidungen
