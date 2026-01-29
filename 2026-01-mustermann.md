@@ -1,11 +1,11 @@
 ---
 title: "BrigGen Max Mustermann: Entscheidungen für eine künftig kriegstüchtige Tech-Industrie in Deutschland"
+date: 2026-01-15
 ---
 
 # {{ page.title }}
 {:.no_toc}
 
-Christian Ullrich  
 Januar 2026
 
 > **Brigadegeneral Max Mustermann**
