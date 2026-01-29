@@ -32,5 +32,5 @@ Januar 2026
 6. **Pflicht zu realistischen Belastungstests**  
   Wir entscheiden, dass zivile Tech-Unternehmen verpflichtet werden, ihre Systeme und Abhängigkeiten regelmäßig unter realistischen Stör- und Ausfallszenarien zu testen, weil dadurch Schwachstellen vor dem Ernstfall sichtbar werden, statt Resilienz nur auf dem Papier oder unter Friedensannahmen zu bewerten, und akzeptieren, dass laufende Kosten entstehen und operative Abläufe gestört werden.
     
-7. **Akzeptanz von Verlusten im Einsatz**
+7. **Akzeptanz von Verlusten im Einsatz**  
   Wir entscheiden, dass Verlustrisiken und Ausfälle von Technologie im Einsatz akzeptiert werden, weil dadurch schnellere Nutzung und Anpassung möglich sind, statt Systeme primär auf maximale Sicherheit und Fehlervermeidung im Frieden auszulegen, und akzeptieren, dass Material und Daten im Einsatz verloren gehen können.
