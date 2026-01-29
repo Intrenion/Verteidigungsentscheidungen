@@ -11,8 +11,8 @@ Januar 2026
 > **Brigadegeneral Max Mustermann**
 > 
 > Brigadegeneral Max Mustermann ist Kommandeur des Zentrums für Zukunft und Weiterentwicklung der Bundeswehr. In dieser Funktion befasst er sich mit langfristigen Fähigkeitsfragen, technologischer Entwicklung und der Übersetzung politischer Zielsetzungen in militärisch umsetzbare Strukturen. Zuvor diente er in verschiedenen Führungs- und Stabsverwendungen im In- und Ausland, unter anderem in multinationalen Planungsstäben. Seine Arbeitsschwerpunkte liegen an der Schnittstelle zwischen Militär, Industrie und staatlicher Steuerung unter Krisen- und Konfliktbedingungen.
->
-> Diese Entscheidungen umfassen die expliziten Festlegungen, die getroffen werden müssten, um Kriegstüchtigkeit in der Tech-Industrie real werden zu lassen.
+
+Diese Entscheidungen umfassen die expliziten Festlegungen, die getroffen werden müssten, um Kriegstüchtigkeit in der Tech-Industrie real werden zu lassen.
 
 1. **Einbindung der Tech-Industrie**  
   Wir entscheiden, dass zivile Tech-Unternehmen im Krisen- und Verteidigungsfall verbindlich in militärische Planungs- und Bereitstellungsprozesse eingebunden werden, weil dadurch Verfügbarkeit und Koordination im Ernstfall gesichert sind, statt ihre Beteiligung auf freiwillige Kooperationen zu stützen, und akzeptieren, dass der Staat zusätzliche Steuerungs-, Koordinations- und Haftungsverantwortung übernehmen muss.
