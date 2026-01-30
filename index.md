@@ -2,6 +2,12 @@
 title: Verteidigungsentscheidungen
 ---
 
+# Entscheidungen zu Sicherheit und Verteidigung
+
+Diese Seite formuliert Positionen als zukünftige Entscheidungen.
+
+Positionen als explizite Entscheidungen
+
 Diese Seite veröffentlicht explizite Entscheidungen zu sicherheits- und verteidigungspolitischen Themen. Jede Veröffentlichung besteht aus einem Ziel und einer begrenzten Liste klar formulierter Entscheidungssätze.
 
 Die Entscheidungen entstehen in Zusammenarbeit mit Personen, die heute politische, militärische oder fachliche Verantwortung tragen. In Gesprächen werden Positionen in Entscheidungsform übersetzt, sodass klar wird, was festgelegt wird und welche Alternativen ausgeschlossen sind. Veröffentlicht wird nur, was in dieser Form tragfähig bleibt.
