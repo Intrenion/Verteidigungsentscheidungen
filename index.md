@@ -2,6 +2,8 @@
 title: Verteidigungsentscheidungen
 ---
 
+# {{ page.title }}
+
 # Entscheidungen zu Sicherheit und Verteidigung
 
 Diese Seite veröffentlicht explizite Entscheidungen zu sicherheits- und verteidigungspolitischen Themen. Jede Veröffentlichung besteht aus einem Ziel und einer begrenzten Liste klar formulierter Entscheidungssätze.
