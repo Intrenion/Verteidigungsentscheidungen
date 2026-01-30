@@ -8,8 +8,7 @@ date: 2026-01-15
 
 Januar 2026
 
-> **Brigadegeneral Max Mustermann**
-> 
+> **Brigadegeneral Max Mustermann**  
 > Brigadegeneral Max Mustermann ist Kommandeur des Zentrums für Zukunft und Weiterentwicklung der Bundeswehr. In dieser Funktion befasst er sich mit langfristigen Fähigkeitsfragen, technologischer Entwicklung und der Übersetzung politischer Zielsetzungen in militärisch umsetzbare Strukturen. Zuvor diente er in verschiedenen Führungs- und Stabsverwendungen im In- und Ausland, unter anderem in multinationalen Planungsstäben. Seine Arbeitsschwerpunkte liegen an der Schnittstelle zwischen Militär, Industrie und staatlicher Steuerung unter Krisen- und Konfliktbedingungen.
 
 Die Sätze benennen die zu treffenden Entscheidungen, um das Ziel zu erreichen.
