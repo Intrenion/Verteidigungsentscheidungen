@@ -10,4 +10,4 @@ Die Entscheidungen entstehen in Zusammenarbeit mit Personen, die heute politisch
 
 Die Entscheidungssätze benennen die Entscheidungen, die getroffen werden müssten, damit das jeweilige Ziel real werden kann. Sie machen sichtbar, welche Festlegungen dafür notwendig wären und bislang nicht explizit getroffen wurden. Wer sie liest, kann zustimmen, widersprechen oder weiterleiten, ohne sich auf Unklarheiten bei den notwendigen Entscheidungen berufen zu können.
 
-- [**BrigGen Max Mustermann:** Entscheidungen für eine künftig kriegstüchtige Tech-Industrie in Deutschland](2026-01-mustermann)
+- [**BrigGen Max Mustermann:** Entscheidungen für eine kriegstüchtige Tech-Industrie in Deutschland](2026-01-mustermann)
