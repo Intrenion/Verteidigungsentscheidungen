@@ -1,5 +1,5 @@
 ---
-title: "BrigGen Max Mustermann: Entscheidungen für eine künftig kriegstüchtige Tech-Industrie in Deutschland"
+title: "BrigGen Max Mustermann: Entscheidungen für eine kriegstüchtige Tech-Industrie in Deutschland"
 date: 2026-01-15
 ---
 
