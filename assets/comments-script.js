@@ -1,11 +1,9 @@
 (function () {
-  // Only enable comments on /decisions/ pages
   function shouldLoadComments() {
     return location.pathname.startsWith("/decisions/");
   }
 
   function loadHyvor(pageId) {
-    // Prevent double loading
     if (window.__hyvorLoaded) return;
     window.__hyvorLoaded = true;
 
@@ -19,18 +17,16 @@
     s.async = true;
     document.head.appendChild(s);
 
-    // Create Hyvor widget
+    // Create comments element
     const el = document.createElement("hyvor-talk-comments");
-    el.setAttribute("website-id", "YOUR_WEBSITE_ID");
+    el.setAttribute("website-id", "14958");
     el.setAttribute("page-id", pageId);
 
     mount.appendChild(el);
   }
 
-  // Footer is injected asynchronously, so wait until #comments exists
-  function waitForMount(tries = 60) {
-    const mount = document.getElementById("comments");
-    if (mount) return Promise.resolve(true);
+  function waitForMount(tries = 200) {
+    if (document.getElementById("comments")) return Promise.resolve(true);
     if (tries <= 0) return Promise.resolve(false);
 
     return new Promise((resolve) =>
@@ -39,16 +35,12 @@
   }
 
   (async function init() {
-    // Only run on decisions pages
     if (!shouldLoadComments()) return;
 
-    // Wait until footer injection is complete
     const ok = await waitForMount();
     if (!ok) return;
 
-    // Use URL path as unique page ID
     const pageId = location.pathname.replace(/\/$/, "");
-
     loadHyvor(pageId);
   })();
 })();
