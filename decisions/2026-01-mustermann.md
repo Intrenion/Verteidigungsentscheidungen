@@ -1,12 +1,12 @@
 ---
 title: "BrigGen Max Mustermann: Entscheidungen für eine kriegstüchtige Tech-Industrie in Deutschland"
-date: 2026-01-15
+date: 2026-01-29
 ---
 
 # {{ page.title }}
 {:.no_toc}
 
-Januar 2026
+{{ page.date }}
 
 > **Brigadegeneral Max Mustermann**  
 > Brigadegeneral Max Mustermann ist Kommandeur des Zentrums für Zukunft und Weiterentwicklung der Bundeswehr. In dieser Funktion befasst er sich mit langfristigen Fähigkeitsfragen, technologischer Entwicklung und der Übersetzung politischer Zielsetzungen in militärisch umsetzbare Strukturen. Zuvor diente er in verschiedenen Führungs- und Stabsverwendungen im In- und Ausland, unter anderem in multinationalen Planungsstäben. Seine Arbeitsschwerpunkte liegen an der Schnittstelle zwischen Militär, Industrie und staatlicher Steuerung unter Krisen- und Konfliktbedingungen.
