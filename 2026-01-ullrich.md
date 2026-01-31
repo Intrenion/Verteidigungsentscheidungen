@@ -1,3 +1,11 @@
+---
+title: "Christian Ullrich: Entscheidungen für die operative Integration generativer KI in die Bundeswehr"
+date: 2026-01-15
+---
+
+# {{ page.title }}
+{:.no_toc}
+
 Januar 2026
 
 > **Christian Ullrich**  
