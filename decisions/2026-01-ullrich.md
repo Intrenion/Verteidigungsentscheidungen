@@ -1,12 +1,12 @@
 ---
 title: "Christian Ullrich: Entscheidungen für die operative Integration generativer KI in die Bundeswehr"
-date: 2026-01-15
+date: 2026-01-31
 ---
 
 # {{ page.title }}
 {:.no_toc}
 
-Januar 2026
+{{ page.date }}
 
 > **Christian Ullrich**  
 > Christian Ullrich ist Reservist der Bundeswehr und arbeitet zivilberuflich an der Formulierung und Prüfung von Entscheidungen zur Vorbereitung größerer Investitionen und struktureller Veränderungen. Sein beruflicher Hintergrund liegt im IT-Dienstleistungseinkauf, insbesondere in der Steuerung von Beschaffungs-, Vertrags- und Lieferantenstrukturen. Ein weiterer Schwerpunkt seiner Arbeit ist der praktische Einsatz generativer KI als Arbeitsmittel, insbesondere zur Erstellung und Überarbeitung umfangreicher Texte. Er veröffentlicht regelmäßig Best Practices und Arbeitsbeispiele aus seiner Arbeit.
