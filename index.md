@@ -1,5 +1,5 @@
 ---
-title: Verteidigungsentscheidungen
+title: "Verteidigungsentscheidungen"
 ---
 
 # {{ page.title }}
