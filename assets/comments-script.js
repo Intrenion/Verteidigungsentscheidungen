@@ -19,7 +19,11 @@
     const container = document.getElementById("comments-container");
     if (!container) return;
 
-    // Create mount inside the footer slot
+    // Add the top divider only on decisions pages
+    const topHr = document.createElement("hr");
+    container.appendChild(topHr);
+
+    // Mount
     const mount = document.createElement("div");
     mount.id = "comments";
     container.appendChild(mount);
