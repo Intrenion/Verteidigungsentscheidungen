@@ -3,30 +3,28 @@
     return location.pathname.startsWith("/decisions/");
   }
 
-  function ensureMountExists() {
-    // Use the dedicated slot inside the footer
-    const slot = document.getElementById("comments-container");
-    if (!slot) return false;
+  function waitForContainer(tries = 200) {
+    if (document.getElementById("comments-container")) return Promise.resolve(true);
+    if (tries <= 0) return Promise.resolve(false);
 
-    // Create mount only once
-    let mount = document.getElementById("comments");
-    if (!mount) {
-      mount = document.createElement("div");
-      mount.id = "comments";
-      slot.appendChild(mount);
-    }
-
-    return true;
+    return new Promise((resolve) =>
+      setTimeout(() => resolve(waitForContainer(tries - 1)), 50)
+    );
   }
 
   function loadHyvor(pageId) {
     if (window.__hyvorLoaded) return;
     window.__hyvorLoaded = true;
 
-    const mount = document.getElementById("comments");
-    if (!mount) return;
+    const container = document.getElementById("comments-container");
+    if (!container) return;
 
-    // Load Hyvor embed script once
+    // Create mount inside the footer slot
+    const mount = document.createElement("div");
+    mount.id = "comments";
+    container.appendChild(mount);
+
+    // Load Hyvor embed script
     const s = document.createElement("script");
     s.src = "https://talk.hyvor.com/embed/embed.js";
     s.type = "module";
@@ -41,22 +39,11 @@
     mount.appendChild(el);
   }
 
-  function waitForSlot(tries = 200) {
-    if (document.getElementById("comments-container")) return Promise.resolve(true);
-    if (tries <= 0) return Promise.resolve(false);
-
-    return new Promise((resolve) =>
-      setTimeout(() => resolve(waitForSlot(tries - 1)), 50)
-    );
-  }
-
   (async function init() {
     if (!shouldLoadComments()) return;
 
-    const ok = await waitForSlot();
+    const ok = await waitForContainer();
     if (!ok) return;
-
-    if (!ensureMountExists()) return;
 
     const pageId = location.pathname.replace(/\/$/, "");
     loadHyvor(pageId);
