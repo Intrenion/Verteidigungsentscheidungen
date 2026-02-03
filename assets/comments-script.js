@@ -4,19 +4,17 @@
   }
 
   function ensureMountExists() {
-    // If the mount already exists, do nothing
-    if (document.getElementById("comments")) return true;
+    // Use the dedicated slot inside the footer
+    const slot = document.getElementById("comments-container");
+    if (!slot) return false;
 
-    // Try to place it inside the injected footer, if present
-    const footer = document.querySelector(".site-footer");
-    if (!footer) return false;
-
-    // Create mount container
-    const mount = document.createElement("div");
-    mount.id = "comments";
-
-    // Insert it near the top of the footer
-    footer.insertBefore(mount, footer.firstChild);
+    // Create mount only once
+    let mount = document.getElementById("comments");
+    if (!mount) {
+      mount = document.createElement("div");
+      mount.id = "comments";
+      slot.appendChild(mount);
+    }
 
     return true;
   }
@@ -43,29 +41,24 @@
     mount.appendChild(el);
   }
 
-  function waitForFooter(tries = 200) {
-    if (document.querySelector(".site-footer")) return Promise.resolve(true);
+  function waitForSlot(tries = 200) {
+    if (document.getElementById("comments-container")) return Promise.resolve(true);
     if (tries <= 0) return Promise.resolve(false);
 
     return new Promise((resolve) =>
-      setTimeout(() => resolve(waitForFooter(tries - 1)), 50)
+      setTimeout(() => resolve(waitForSlot(tries - 1)), 50)
     );
   }
 
   (async function init() {
-    // Only load comments on decisions pages
     if (!shouldLoadComments()) return;
 
-    // Wait until the footer has been injected
-    const ok = await waitForFooter();
+    const ok = await waitForSlot();
     if (!ok) return;
 
-    // Ensure the mount point exists inside the footer
     if (!ensureMountExists()) return;
 
-    // Use the pathname as page-id (stable, no trailing slash)
     const pageId = location.pathname.replace(/\/$/, "");
-
     loadHyvor(pageId);
   })();
 })();
