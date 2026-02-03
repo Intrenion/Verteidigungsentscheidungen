@@ -2,8 +2,6 @@
 title: "Verteidigungsentscheidungen NEW NEW NEW"
 ---
 
-# {{ page.title }}
-
 # Explizite Entscheidungen des BMVg
 
 Diese Seite sammelt explizite politische und strategische Entscheidungen des BMVg. Die Entscheidungen benennen die Festlegung, die beabsichtigte Wirkung, die ausgeschlossene Alternative sowie den akzeptierten Nachteil.
