@@ -23,6 +23,10 @@
     const topHr = document.createElement("hr");
     container.appendChild(topHr);
 
+    // Add a line break (Shift+Enter style spacing)
+    const br = document.createElement("br");
+    container.appendChild(br);
+
     // Mount
     const mount = document.createElement("div");
     mount.id = "comments";
