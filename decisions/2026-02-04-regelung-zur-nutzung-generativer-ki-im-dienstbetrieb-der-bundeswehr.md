@@ -11,7 +11,7 @@ Christian Ullrich
 
 ## Quellen
 
-- ["Christian Ullrich: ChatGPT für Verbesserungs- und Innovationsvorschläge"](https://www.intrenion.com/chatgpt-fuer-verbesserungs-und-innovationsvorschlaege)
+- [Christian Ullrich: "ChatGPT für Verbesserungs- und Innovationsvorschläge"](https://www.intrenion.com/chatgpt-fuer-verbesserungs-und-innovationsvorschlaege)
 
 ## Ausgangslage
 
