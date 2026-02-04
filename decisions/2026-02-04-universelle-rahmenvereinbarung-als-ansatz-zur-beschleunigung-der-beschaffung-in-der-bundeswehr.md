@@ -9,6 +9,11 @@ date: 2026-02-04
 Christian Ullrich  
 {{ page.date }}
 
+## Quellen
+
+- [Christian Ullrich: "ChatGPT für Verbesserungs- und Innovationsvorschläge"](https://www.intrenion.com/chatgpt-fuer-verbesserungs-und-innovationsvorschlaege)
+- [Christian Ullrich "Universelle Rahmenvereinbarung"](https://www.intrenion.com/universelle-rahmenvereinbarung)
+
 ## Ausgangslage
 
 1. Die Bundeswehr steht vor der Herausforderung einer langwierigen und aufwändigen Beschaffung.
