@@ -1,9 +1,9 @@
 ---
-title: "Verteidigungsentscheidungen NEW NEW NEW"
+title: "Verteidigungsentscheidungen"
 ---
 
-# Explizite Entscheidungen des BMVg
+# Verteidigungspolitische Entscheidungen sichtbar machen
 
-Diese Seite sammelt explizite politische und strategische Entscheidungen des BMVg. Die Entscheidungen benennen die Festlegung, die beabsichtigte Wirkung, die ausgeschlossene Alternative sowie den akzeptierten Nachteil.
+*Verteidigungsentscheidungen* greift verteidigungspolitische Vorschläge auf und macht sichtbar, welche Entscheidungen dafür notwendig wären. Häufig sind solche Vorschläge bewusst offen formuliert. Solange keine Festlegung erfolgt, wirken sie konsensfähig. Unter Prüfungsdruck zeigt sich, dass zentrale Entscheidungen vermieden werden. Die Texte auf dieser Webseite benennen diese notwendigen Entscheidungen konkret, einschließlich der ausgeschlossenen Alternativen und der akzeptierten Nachteile.
 
-- 2026-02-02: Wir entscheiden, das neue Innovationszentrum der Bundeswehr in Erding organisatorisch direkt im Beschaffungsamt anzusiedeln, weil dadurch die Bundeswehr neue Technologien schneller in die Truppe bringen kann und klare Zuständigkeiten schafft, statt das Zentrum außerhalb der Beschaffung zu verorten, und akzeptieren, dass dadurch bürokratische Pflichten aus dem Beschaffungsumfeld stärker auf das Zentrum durchschlagen und Tempo in manchen Innovationsprojekten bremsen können. [Zur Diskussion](/decisions/2026-02-02-a)
+[Entscheidungen für die Einführung einer universellen Rahmenvereinbarung in der Bundeswehr](entscheidungen-fuer-die-einfuehrung-einer-universellen-rahmenvereinbarung-in-der-bundeswehr)
