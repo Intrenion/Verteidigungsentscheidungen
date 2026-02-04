@@ -1,5 +1,9 @@
 url: "https://www.verteidigungsentscheidungen.de"
 baseurl: ""
+
+permalink: pretty
+
 plugins:
   - jekyll-sitemap
+
 title: "Verteidigungsentscheidungen"
