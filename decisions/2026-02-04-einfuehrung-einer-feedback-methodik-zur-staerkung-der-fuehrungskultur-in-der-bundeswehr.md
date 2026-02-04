@@ -9,6 +9,10 @@ date: 2026-02-04
 Christian Ullrich  
 {{ page.date }}
 
+## Quellen
+
+- ["Christian Ullrich: ChatGPT für Verbesserungs- und Innovationsvorschläge"](https://www.intrenion.com/chatgpt-fuer-verbesserungs-und-innovationsvorschlaege)
+
 ## Ausgangslage
 
 1. In der Bundeswehr fehlt aktuell eine strukturierte und regelmäßige Feedbackkultur.
