@@ -12,7 +12,7 @@ Christian Ullrich
 ## Ausgangslage
 
 1. In der Bundeswehr fehlt aktuell eine strukturierte und regelmäßige Feedbackkultur.
-2. Das Personal erhält wenig systematisches Feedback zu seiner Arbeit und zu seinen Leistungen.
+2. Das Personal erhält wenig systematisches Feedback zu seiner Arbeit und seinen Leistungen.
 3. Es bestehen keine klaren Richtlinien oder Methoden, um konstruktives Feedback zu geben und anzunehmen.
 4. Es gibt keine standardisierte Methodik für Feedbackgespräche und Rückmeldungen im Dienstalltag.
 
