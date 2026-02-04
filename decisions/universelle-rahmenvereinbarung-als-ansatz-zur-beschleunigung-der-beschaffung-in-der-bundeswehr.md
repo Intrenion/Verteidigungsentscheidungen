@@ -1,5 +1,5 @@
 ---
-title: "Entscheidungen für die Einführung einer universellen Rahmenvereinbarung in der Bundeswehr"
+title: "Universelle Rahmenvereinbarung als Ansatz zur Beschleunigung der Beschaffung in der Bundeswehr"
 date: 2026-02-04
 ---
 
